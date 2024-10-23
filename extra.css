@@ -1,0 +1,25 @@
+
+            body {
+                text-align: center;
+                background-color: #333333; /* Dark gray color code */
+                color: #ffffff; /* White text color for contrast */
+            }
+
+            .blue-text {
+            color: rgb(10, 243, 196); /* Blue text color */
+            }
+            
+            .bar {
+            display: flex;
+            background-color: #333;
+            color: #fff;
+            height: 50px;
+        }
+
+        /* Styling for each section */
+        .section {
+            flex-grow: 1;
+            text-align: left;
+            line-height: 50px;
+        }
+        
